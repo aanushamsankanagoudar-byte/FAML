@@ -1,2 +1,2 @@
-# FAML project 
+# FAIML project 
 FAIML assignment
